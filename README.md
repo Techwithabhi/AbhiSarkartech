@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-sarkar-tech&show_icons=true&locale=en" alt="abhi-sarkar-tech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-sarkar-tech&" alt="abhi-sarkar-tech" /></p>
